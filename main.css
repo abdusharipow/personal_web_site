@@ -1,0 +1,37 @@
+.rasm{
+    width: 200px;
+    height: 200px;
+}
+.b{
+    padding: 10px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid green;
+    border-radius: 40%;
+}
+.b1{
+    padding: 10px ;
+    border: 1px solid green;
+    border-radius: 40%;
+}
+.modal-body{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.b2{
+    padding: 10px ;
+    border: 1px solid green;
+    border-radius: 40%;
+}
+.b3{
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 40%;
+}
+.b4{
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 40%;
+}
