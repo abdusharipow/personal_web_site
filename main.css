@@ -35,3 +35,15 @@
     border: 1px solid green;
     border-radius: 40%;
 }
+.sar{
+    color: rgb(202, 202, 202);
+}
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    gap: 25px;
+}
+.box1{
+    font-size: 20px;
+}
