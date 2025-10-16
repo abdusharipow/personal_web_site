@@ -45,6 +45,7 @@
     align-items: center;
     margin-top: 50px;
     gap: 25px;
+    margin-bottom: 300px;
     
 }
 .box1{
@@ -72,7 +73,8 @@
     align-items: center;
 }
 .container1{
-    margin-top: 400px;
+    margin-top: 300px;
+    margin-bottom: 200px;
 }
 .c1-sarlavha{
     display: flex;
@@ -97,6 +99,7 @@
     margin: 20px;
 }
 .container2{
+    
     display: flex;
     justify-content: center;
     margin-top: 300px;
@@ -128,4 +131,7 @@
     display: flex;
     justify-content: center;
     color: gray;
+}
+.btn{
+    width: 550px;
 }
