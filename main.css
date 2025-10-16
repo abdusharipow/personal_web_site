@@ -45,6 +45,7 @@
     align-items: center;
     margin-top: 50px;
     gap: 25px;
+    
 }
 .box1{
     font-size: 20px;
@@ -77,4 +78,20 @@
     display: flex;
     justify-content: center;
     color: gray;
+}
+.h{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+.p{
+    display: flex;
+    justify-content: center;
+
+}
+.container0{
+    margin-top: 300px;
+    background-color: rgba(228, 224, 224, 0.692);
+    padding: 15px;
+    border-radius: 20px;
 }
