@@ -47,3 +47,43 @@
 .box1{
     font-size: 20px;
 }
+.rasmlar{
+    display: flex;
+    justify-content: center;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.rasm1{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.rasm2{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.rasm3{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.rasm4{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.rasm5{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 50px;
+}
