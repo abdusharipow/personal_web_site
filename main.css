@@ -1,3 +1,4 @@
+
 .rasm{
     width: 200px;
     height: 200px;
@@ -75,4 +76,5 @@
 .c1-sarlavha{
     display: flex;
     justify-content: center;
+    color: gray;
 }
