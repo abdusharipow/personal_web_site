@@ -40,6 +40,7 @@
 }
 .container{
     display: flex;
+    justify-content: center;
     align-items: center;
     margin-top: 50px;
     gap: 25px;
@@ -57,33 +58,21 @@
     align-items: center;
     gap: 200px;
 }
-.rasm1{
-    width: 200px;
-    height: 200px;
-    padding: 15px;
-    border-radius: 50px;
+.block2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
 }
-.rasm2{
-    width: 200px;
-    height: 200px;
-    padding: 15px;
-    border-radius: 50px;
+.block3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.rasm3{
-    width: 200px;
-    height: 200px;
-    padding: 15px;
-    border-radius: 50px;
+.container1{
+    margin-top: 400px;
 }
-.rasm4{
-    width: 200px;
-    height: 200px;
-    padding: 15px;
-    border-radius: 50px;
-}
-.rasm5{
-    width: 200px;
-    height: 200px;
-    padding: 15px;
-    border-radius: 50px;
+.c1-sarlavha{
+    display: flex;
+    justify-content: center;
 }
